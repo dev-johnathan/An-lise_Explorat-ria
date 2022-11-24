@@ -1,2 +1,2 @@
-# Unimed-BH-Ciencia-de-Dados
-Repositorio de acompanhamento de Bootcamp DIO
+# Ciencia_dados_Python
+
